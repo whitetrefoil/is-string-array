@@ -13,6 +13,10 @@ See `tests/main.spec.ts`.
 Changelog
 ---------
 
+### v1.0.1
+
+* Update README carried from previous project.
+
 ### v1.0.0
 
 * Initial release.

@@ -1,6 +1,6 @@
 {
   "name": "@whitetrefoil/is-string-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is a string[]?",
   "main": "lib/common/main.js",
   "module": "lib/esm/main.js",
