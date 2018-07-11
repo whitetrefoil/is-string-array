@@ -8,7 +8,7 @@ export function isStringArray(target: any, allowEmpty: boolean = true): target i
 
   if (target.length === 0 && allowEmpty !== true) { return false }
 
-  for (const item of target as any[]) {
+  for (const item of target) {
     if (typeof item !== 'string') { return false }
   }
 
